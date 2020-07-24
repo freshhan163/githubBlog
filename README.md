@@ -1,7 +1,7 @@
 # 前端杂记
 ### JS
 ### ES6
-    1.装饰器函数--基础介绍
+    1.[装饰器函数--基础介绍](https://github.com/FreshHan163/githubBlog/issues/1)
 ### CSS
 ### HTML
 ###Node
