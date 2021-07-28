@@ -8,8 +8,24 @@
 
 ### JS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FreshHan163/githubBlog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### CSS
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 算法
+
+### React
+
+### Vue
+
+### 构建工具
+
+### Node
+
+### http
+
+### 面试题
+
+### 关于github pages
+
+[官方文档](https://docs.github.com/categories/github-pages-basics/)
+
+[阮一峰文档](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
